@@ -1,0 +1,65 @@
+<resources>
+    <!--    App name-->
+    <string name="app_name">iAttendance</string>
+
+    <!--    General strings-->
+    <string name="login">Log in</string>
+    <string name="noAcc">Don\'t have an account?</string>
+    <string name="signup_as">Sign-up as:</string>
+    <string name="signup">Sign up</string>
+    <string name="phone">Phone number</string>
+    <string name="pass">Password</string>
+    <string name="home">Home</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+    <string name="viewAll">View all</string>
+    <string name="otp">OTP</string>
+    <string name="getotp">Get OTP</string>
+    <string name="resend">Resend OTP</string>
+    <string name="otp_not_received">Didn’t received OTP?</string>
+    <string name="hav_acc">Already have an account?</string>
+    <string name="nxt">Next</string>
+    <string name="finish">Finish</string>
+    <string name="signup_heading">Hey,\nSignup Now!</string>
+    <string name="name">Full name</string>
+    <string name="college_code">College code</string>
+    <string name="college_name">College name</string>
+    <string name="college_address">College address</string>
+
+    <!--    Welcome screen-->
+    <string name="title">Revolutionizing Classroom Attendance Management</string>
+    <string name="subTxt">Effortlessly Track and Analyze Attendance for Faculty and Students</string>
+
+    <!--    Role screen-->
+    <string name="role_title">Get Started:\nChoose Your Role</string>
+    <string name="role_subTxt">Register as Based on Your Role in the\nInstitution</string>
+    <string name="select_role">Select an option:</string>
+    <string name="admin">Admin</string>
+    <string name="faculty">Faculty</string>
+    <string name="student">Student</string>
+
+    <!--    Login screen-->
+    <string name="log_title">Hey,\nLogin Now</string>
+
+    <!--    Signup screen-->
+    <string name="one">01</string>
+    <string name="two">02</string>
+    <string name="two_">/ 02</string>
+
+    <!--    Home fragment-->
+    <string name="active">Active</string>
+
+    <!--    Student attendance screen-->
+    <string name="attendance">Attendance</string>
+    <string name="mark_present">Mark Present</string>
+    <string name="history">History</string>
+    <string name="your_presence">Your Presence</string>
+    <string name="overall_att">Overall attendance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Faculty attendance screen-->
+    <string name="start">Start</string>
+    <string name="end">End</string>
+
+</resources>

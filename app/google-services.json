@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842037057680",
+    "project_id": "iattendance-mca-sem1-b2--2023",
+    "storage_bucket": "iattendance-mca-sem1-b2--2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842037057680:android:b69815acc066035a4b2015",
+        "android_client_info": {
+          "package_name": "com.example.iattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByscE_Tzgq8RhLu8QY5LSRhao9ZzNqORY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
