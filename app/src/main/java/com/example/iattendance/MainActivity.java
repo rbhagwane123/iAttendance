@@ -25,6 +25,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }, 3000);
 
-        Toast.makeText(this, "HELLO NICE TO SEE YOU!....", Toast.LENGTH_SHORT).show();
+
     }
 }
