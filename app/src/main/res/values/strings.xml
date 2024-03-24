@@ -61,5 +61,6 @@
     <!--    Faculty attendance screen-->
     <string name="start">Start</string>
     <string name="end">End</string>
+    <string name="stud_list">Students list</string>
 
 </resources>
