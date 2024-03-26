@@ -27,12 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "HELLO NICE TO SEE YOU!....", Toast.LENGTH_SHORT).show();
 
-        //New message Added from rbhagwane123@gmail.com
-        //New message added Try to fetch it
-        //Add new data to Github from Hitesh
-        //TRYING TO DEMONSTRATE TO HITESH HOW ITS WORKS
-        //Updating from @rupesh to demonstrate the working
-        //The gdkjjkghgdagdhgajd gjdk gaskjgd kagdag
+
+
 
     }
 }
